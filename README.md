@@ -21,8 +21,8 @@ This repository contains documentation for testing and improving the Academy LMS
 
 ## Improvement Suggestions
 
-Enhance Search Algorithm for Similar Names
-Implement Name Uniqueness Validation
+Enhance Search Algorithm for Similar Names,
+Implement Name Uniqueness Validation,
 Improved Timezone Handling for Course Timestamps
 
 
