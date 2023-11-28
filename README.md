@@ -6,16 +6,16 @@ This repository contains documentation for testing and improving the Academy LMS
 
 ## Repository Contents
 
-- **Bug Report Excel File:** [bug_report.xlsx](bug_report.xlsx)
+- **Bug Report Excel File:** 
   - Excel file containing reported bugs with details and status.
 
-- **Screenshots Folder:** [screenshots](screenshots)
+- **Screenshots Folder:** 
   - A collection of screenshots related to testing and bug reports.
 
-- **Documentation PDF File:** [Academy_LMS_Documentation.pdf](Academy_LMS_Documentation.pdf)
+- **Documentation PDF File:** 
   - A PDF document containing detailed documentation for testing procedures and improvements.
 
-- **Documentation DOC File:** [Academy_LMS_Documentation.docx](Academy_LMS_Documentation.docx)
+- **Documentation DOC File:** 
   - A Word document containing detailed documentation for testing procedures and improvements.
 
 
